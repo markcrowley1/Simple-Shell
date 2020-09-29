@@ -7,5 +7,3 @@ Simple implimentation of a shell using C. Some featues include:
 -Built in redirect for stdout to a file using the ">" sign.
 
 ==============================================================
-
-
