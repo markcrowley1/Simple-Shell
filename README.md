@@ -1,6 +1,6 @@
 # Simple-Shell
 
-Simple implimentation of a shell using C. Mimics features of bash.
+Simple implementation of a shell using C. Mimics features of bash.
 Some featues include:
 
 - Date and time in command prompt
